@@ -1,0 +1,15 @@
+site_name: Eel
+
+theme:
+  name: material
+
+nav:
+  - Accueil: index.md
+  - Anatomie: anatomie.md
+  - Électricité: electricite.md
+  - Habitat: habitat.md
+  - Chasse: chasse.md
+  - Espèces: especes.md
+  - Sources: sources.md
+markdown_extensions:
+  - footnotes
